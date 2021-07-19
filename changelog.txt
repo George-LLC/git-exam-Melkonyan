@@ -1,0 +1,8 @@
+
+## [0.0.1] - 2021-07-19
+### Fixed
+--Create a phpinfo function to inoperability of the system in the index.php file.
+
+
+
+[0.0.1]: https://github.com/George-LLC/git-exam-Melkonyan.git/v0.0.1
